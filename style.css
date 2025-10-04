@@ -1,0 +1,34 @@
+html, body {
+  background-color: black;
+
+}
+
+canvas {
+  display: flex;
+  height: 50%;
+  justify-content: center;
+  align-items: center;
+}
+
+h2, p {
+    justify-content:first baseline;
+
+}
+
+h2, h3, h6 {
+  text-align: center;
+  color: crimson;
+  font-style: bold;
+  font-style: italic;
+  font-family: fantasy;
+font-size: 16pt;
+}
+p {
+    text-align: center;
+
+    color: wheat;
+  font-family: fantasy;
+  font-size: 10pt;
+
+
+}
